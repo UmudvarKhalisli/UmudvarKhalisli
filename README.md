@@ -67,4 +67,8 @@ A platform where multiple stores sell in one place.
 
 ## 📫 Contact
 - GitHub: https://github.com/UmudvarKhalisli
-- Project: https://e-yarmarka.me
+- Project:
+- https://e-yarmarka.me
+- https://tracen.me/
+- https://physix.app/
+- https://boshbesh.vercel.app/
