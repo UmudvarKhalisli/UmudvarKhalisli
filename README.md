@@ -49,14 +49,12 @@ A platform where multiple stores sell in one place.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmudvarKhalisli&show_icons=true&theme=dark" />
-</p>
+## 🧠 Current Direction
+Focused on building systems, not just features.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmudvarKhalisli&theme=dark" />
-</p>
+- Marketplaces  
+- Automation  
+- Real business solutions  
 
 ---
 
