@@ -3,34 +3,42 @@
 </p>
 <h1 align="center">Ümüdvar</h1>
 <p align="center">
-  Builder • Founder • Developer
+  Builder • Full-Stack Developer • System Thinker
 </p>
 
 <p align="center">
-  <a href="https://e-yarmarka.me">🌐 e-Yarmarka</a>
+  Creating real-world digital products
 </p>
 
 ---
 
 ## 🚀 About Me
-I build real-world products from scratch.
+I build real-world products, not just code.
 
 - 🧠 Full-stack developer (JavaScript, PHP, MySQL, Next.js)
-- 🛒 Founder of **e-Yarmarka** (multi-vendor marketplace)
-- ⚡ Focus: marketplaces, automation, scalable systems
-- 🌍 Goal: build products used by thousands
+- ⚙️ Building systems: marketplaces, automation tools, dashboards
+- 🚀 Focused on scalable and user-driven products
+- 🌍 Goal: create products used by thousands
 
 ---
 
-## 🧩 Current Project
-**e-Yarmarka**
+## 🧩 What I Build
+- 🛒 Marketplace platforms  
+- ⚡ Automation tools  
+- 📊 Admin panels & dashboards  
+- 🌐 Real business solutions  
 
-Multi-vendor marketplace platform where multiple stores sell in one place.
+---
 
-- 🛍 Multiple sellers
-- 💳 Flexible payment system
-- 🚚 Dynamic delivery system
-- 📈 Scalable architecture
+## 🛠 Featured Project
+**e-Yarmarka** — multi-vendor marketplace
+
+A platform where multiple stores sell in one place.
+
+- Multiple sellers
+- Flexible payment system
+- Delivery logic
+- Scalable architecture
 
 ---
 
@@ -53,7 +61,7 @@ Multi-vendor marketplace platform where multiple stores sell in one place.
 ---
 
 ## 🔥 Philosophy
-> Not just coding — building systems people actually use.
+> I don’t just build apps — I build systems people rely on.
 
 ---
 
