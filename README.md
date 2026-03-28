@@ -66,7 +66,6 @@ A platform where multiple stores sell in one place.
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/UmudvarKhalisli
 - Projects:
 - https://e-yarmarka.me
 - https://tracen.me/
