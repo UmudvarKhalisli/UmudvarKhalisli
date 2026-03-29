@@ -15,7 +15,7 @@
 ## 🚀 About Me
 I build real-world products, not just code.
 
-- 🧠 Full-stack developer (JavaScript, PHP, MySQL, Next.js)
+- 🧠 Full-stack developer 
 - ⚙️ Building systems: marketplaces, automation tools, dashboards
 - 🚀 Focused on scalable and user-driven products
 - 🌍 Goal: create products used by thousands
