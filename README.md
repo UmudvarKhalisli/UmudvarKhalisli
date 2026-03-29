@@ -62,7 +62,7 @@ Focused on building systems, not just features.
 > I don’t just build apps — I build systems people rely on.
 
 ---
-- GitHub: https://github.com/Umudvarr
+- GitHub: https://github.com/UmudvarKhalisli
 ---
 
 ## 📫 Contact
