@@ -71,3 +71,4 @@ Focused on building systems, not just features.
 - https://tracen.me/
 - https://physix.app/
 - https://boshbesh.vercel.app/
+- https://www.naftexnika.az/
